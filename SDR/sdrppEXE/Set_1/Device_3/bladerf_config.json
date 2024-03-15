@@ -1,0 +1,19 @@
+{
+    "device": "df5f1047fe7c4ed9b03d917e9725e449",
+    "devices": {
+        "321e0fa5875945d99b11070bb0a76d31": {
+            "bandwidth": 29,
+            "channelId": 0,
+            "gainMode": "Manual",
+            "overallGain": -15,
+            "sampleRate": 520834
+        },
+        "df5f1047fe7c4ed9b03d917e9725e449": {
+            "bandwidth": 29,
+            "channelId": 0,
+            "gainMode": "Manual",
+            "overallGain": -15,
+            "sampleRate": 520834
+        }
+    }
+}
